@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "gSettings",
+        "gData",
+        "gFunc",
+        "AshitaCore"
+    ],
+    "luahelper.format.indent_width": 2
+}
